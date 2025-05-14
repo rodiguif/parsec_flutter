@@ -137,38 +137,39 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.3.1"
+    version: "0.4.0"
   parsec_android:
     dependency: transitive
     description:
-      path: "../../parsec_android"
-      relative: true
-    source: path
-    version: "0.3.2"
+      name: parsec_android
+      sha256: a0d14f37dfb34c804a548bab6432cc9397e01099fab594c1ddd38c347fa5b2ce
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.0"
   parsec_linux:
     dependency: transitive
     description:
       name: parsec_linux
-      sha256: "0f15d32dca7b6d9e64c1c6bcfee018863c1a68edf189e51eeb46b0ad7b535a2d"
+      sha256: "952efa011e3949c3b063e382db9183d95618c3aee8ecea9b7897da9050c44886"
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.1"
+    version: "0.4.0"
   parsec_platform_interface:
     dependency: transitive
     description:
       name: parsec_platform_interface
-      sha256: e111204cdb14847045e9ad5374ec06b60e225cddf0c0eafce156492f8d57dd45
+      sha256: "38d4f9e0d67577f05e4201f6cc0c25389c7899856be18b0173ab19b5009b2acb"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.1"
+    version: "0.2.0"
   parsec_windows:
     dependency: transitive
     description:
       name: parsec_windows
-      sha256: a361c9e4c7bc3af91ff6cce83664e9568673274cab9996803ea6184d4b3ecee5
+      sha256: "5645000b4a231ffb02a86d1048403abf810240dfff491dc18661e439fe1df81a"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0"
+    version: "0.2.0"
   path:
     dependency: transitive
     description:
@@ -181,10 +182,10 @@ packages:
     dependency: transitive
     description:
       name: plugin_platform_interface
-      sha256: dbf0f707c78beedc9200146ad3cb0ab4d5da13c246336987be6940f026500d3a
+      sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.3"
+    version: "2.1.8"
   sky_engine:
     dependency: transitive
     description: flutter
