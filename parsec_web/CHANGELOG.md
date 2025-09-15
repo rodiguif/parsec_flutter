@@ -1,6 +1,6 @@
 ## 0.1.1
 
-- Update of the `parsec-web` library with fixes to the WASM (WebAssembly) file.
+- Upgrade `parsec-web` library with WebAssembly (WASM) file fixes.
 
 ## 0.1.0
 
