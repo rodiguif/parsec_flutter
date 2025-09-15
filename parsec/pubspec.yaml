@@ -14,8 +14,7 @@ dependencies:
   parsec_android: ^0.4.0
   parsec_linux: ^0.4.0
   parsec_windows: ^0.2.0
-  parsec_web:
-    path: ../parsec_web
+  parsec_web: ^0.1.1
 
 dev_dependencies:
   flutter_test:
