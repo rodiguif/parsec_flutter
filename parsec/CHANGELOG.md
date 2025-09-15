@@ -1,4 +1,4 @@
-## 0.5.0
+## 0.5.1
 
 - **NEW: Web Support with WebAssembly** - Added comprehensive web platform support using high-performance WebAssembly compiled from C++
 - **Enhanced Testing** - Comprehensive cross-platform testing including WebAssembly validation
