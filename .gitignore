@@ -3,11 +3,6 @@
 .aider*
 .claude/
 
-# Dart/Flutter build artifacts
-**/.dart_tool/**
-**/build/**
-**/.packages
-
 # IDE/editor files
 .idea/
 .vscode/
