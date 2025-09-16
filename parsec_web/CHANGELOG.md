@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Update `parsec-web` library to remove unnecessary logs.
+
 ## 0.1.2
 
 - Upgrade `web` package to ^1.1.0 for better compatibility and performance.
